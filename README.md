@@ -1,7 +1,9 @@
 ### Table of Contents
 
 [About](#about)
+
 [License](#license)
+
 [How to cite](#how-to-cite)
 
 ### About 
