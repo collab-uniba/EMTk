@@ -35,4 +35,4 @@ LATEX
 
 ### Support or Contact
 
-Having trouble with our toolkit? [Contact us](https://collab.di.unibait/members) and we’ll help you sort it out.
+Having trouble with our toolkit? [Contact us](http://collab.di.unibait/members) and we’ll help you sort it out.
