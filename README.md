@@ -1,9 +1,9 @@
 ### Table of Contents
 
 ```
-(#anchor-about)
+[About](#about)
 ```
-[About](#about) 
+ 
 
 ### About 
 
