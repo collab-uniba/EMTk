@@ -28,8 +28,12 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### License
+Collab EMTk is licensed under the [MIT Public License](https://github.com/collab-uniba/emtk/blob/master/LICENSE).
+
 ### How to cite Collab EMTk in papers
 Please cite the following papers:
+
 F.Calefato, F. Lanubile, and N. Novielli ...
 ```latex
 LATEX
@@ -37,4 +41,4 @@ LATEX
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with our toolkit? [Contact us](https://collab.di.unibait/members) and we’ll help you sort it out.
