@@ -1,9 +1,8 @@
 ### Table of Contents
 
-```
 [About](#about)
-```
- 
+[License](#license)
+[How to cite](#how-to-cite)
 
 ### About 
 
@@ -32,8 +31,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### License
 Collab EMTk is licensed under the [MIT License](https://github.com/collab-uniba/emtk/blob/master/LICENSE).
 
-### How to cite Collab EMTk in papers
-Please cite the following papers:
+### How to cite
+If you used the Collab EMTk in your work, please cite the following papers:
 
 F.Calefato, F. Lanubile, and N. Novielli ...
 ```latex
