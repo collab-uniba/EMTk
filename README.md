@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### License
-Collab EMTk is licensed under the [MIT Public License](https://github.com/collab-uniba/emtk/blob/master/LICENSE).
+Collab EMTk is licensed under the [MIT License](https://github.com/collab-uniba/emtk/blob/master/LICENSE).
 
 ### How to cite Collab EMTk in papers
 Please cite the following papers:
