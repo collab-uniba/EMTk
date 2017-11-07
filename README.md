@@ -1,8 +1,11 @@
 ### Table of Contents
 
 [About](#about)
+
 [Download](#download)
+
 [License](#license)
+
 [How to cite](#how-to-cite)
 
 ### About 
