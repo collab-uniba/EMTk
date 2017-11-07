@@ -1,10 +1,10 @@
 ### Table of Contents
 
-[About](#about)
+[About](.#about)
 
-[License](#license)
+[License](.#license)
 
-[How to cite](#how-to-cite)
+[How to cite](.#how-to-cite)
 
 ### About 
 
