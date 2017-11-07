@@ -18,7 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Download
 
-The Collab EMTk is available 
+The EMTk and all other software developed by Collab is available on [GitHub](https://github.com/collab-uniba).
 
 ### License
 
