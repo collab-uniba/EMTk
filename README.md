@@ -9,16 +9,17 @@
 [How to cite](#how-to-cite)
 
 ### About 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-![Image](src)
-```
+The emotion-mining toolkit comprises the following software:
+* [EmoTXT](https://github.com/collab-uniba/Emotion_and_Polarity_SO) - A toolkit for emotion detection from text
+* [Emo4SD](https://github.com/collab-uniba/Emo4SD) - 
+* [Senti4SD](https://github.com/collab-uniba/Senti4SD) - An *emotion-polarity* classifier specifically trained on developers' communication channels
 
 ### Download
 
 The EMTk and all other software developed by Collab is available on [GitHub](https://github.com/collab-uniba).
+![EmoTXT](src)
+![Emo4SD](src)
+![Senti4SD](src)
 
 ### License
 
