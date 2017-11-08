@@ -34,7 +34,7 @@ Collab EMTk is licensed under the [MIT License](https://github.com/collab-uniba/
 
 If you used the Collab EMTk in your work, please cite the following papers:
 
-* F. Calefato, F. Lanubile, N. Novielli. "EmoTxt: A Toolkit for Emotion Recognition from Text." In *Proc. 7th Affective Computing and Intelligent Interaction (ACII’17)*, San Antonio, TX, USA, Oct. 23-26, 2017.
+* F. Calefato, F. Lanubile, N. Novielli. < href="https://arxiv.org/pdf/1708.03892.pdf">"EmoTxt: A Toolkit for Emotion Recognition from Text."</a> In *Proc. 7th Affective Computing and Intelligent Interaction (ACII’17)*, San Antonio, TX, USA, Oct. 23-26, 2017.
 ```latex
 @inproceedings{calefato2017acii,
   title={EmoTxt: A Toolkit for Emotion Recognition from Text},
