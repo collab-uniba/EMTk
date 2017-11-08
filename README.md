@@ -18,9 +18,9 @@ The emotion-mining toolkit comprises the following software:
 
 The EMTk and all other software developed by Collab is available on [GitHub](https://github.com/collab-uniba).
 
-![EmoTXT](src)
-![Emo4SD](src)
-![Senti4SD](src)
+![EmoTXT](https://github.com/collab-uniba/emtk/blob/master/img/button_emotxt.png)
+![Emo4SD](https://github.com/collab-uniba/emtk/blob/master/img/button_emosd.png)
+![Senti4SD](https://github.com/collab-uniba/emtk/blob/master/img/button_sentisd.png)
 
 ### License
 
