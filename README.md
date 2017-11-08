@@ -34,7 +34,20 @@ Collab EMTk is licensed under the [MIT License](https://github.com/collab-uniba/
 
 If you intend to use the Collab EMTk for your work, please cite the following papers:
 
-* F. Calefato, F. Lanubile, N. Novielli. <a href="https://arxiv.org/pdf/1708.03892.pdf">"EmoTxt: A Toolkit for Emotion Recognition from Text."</a> In *Proc. 7th Affective Computing and Intelligent Interaction (ACII’17)*, San Antonio, TX, USA, Oct. 23-26, 2017.
+* F. Calefato, F. Lanubile, and N. Novielli (2017) <a href="https://arxiv.org/pdf/1709.02984.pdf">"Sentiment Polarity Detection for Software Development."</a> *Empirical Software Engineering Journal*, DOI: <a href="http://dx.doi.org/10.1007/s10664-017-9546-9">10.1007/s10664-017-9546-9</a>. 
+```latex
+@article{Calefato2017emse,
+author="Calefato, Fabio and Lanubile, Filippo and Maiorano, Federico and Novielli, Nicole",
+title="Sentiment Polarity Detection for Software Development",
+journal="Empirical Software Engineering",
+year="2017",
+issn="1573-7616",
+doi="10.1007/s10664-017-9546-9",
+url="https://doi.org/10.1007/s10664-017-9546-9"
+}
+```
+
+* F. Calefato, F. Lanubile, N. Novielli (2017) <a href="https://arxiv.org/pdf/1708.03892.pdf">"EmoTxt: A Toolkit for Emotion Recognition from Text."</a> In *Proc. 7th Affective Computing and Intelligent Interaction (ACII’17)*, San Antonio, TX, USA, Oct. 23-26, 2017.
 ```latex
 @inproceedings{calefato2017acii,
   title={EmoTxt: A Toolkit for Emotion Recognition from Text},
