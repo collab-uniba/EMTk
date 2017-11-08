@@ -39,7 +39,7 @@ If you used the Collab EMTk in your work, please cite the following papers:
 @inproceedings{calefato2017acii,
   title={EmoTxt: A Toolkit for Emotion Recognition from Text},
   author={Calefato, Fabio and Lanubile, Filippo and Novielli, Nicole},
-  booktitle = {*Proc. 7th Affective Computing and Intelligent Interaction},
+  booktitle = {Proc. 7th Affective Computing and Intelligent Interaction},
   series = {ACII 2017},
   year = {2017},
   isbn = {??},
