@@ -34,7 +34,18 @@ If you used the Collab EMTk in your work, please cite the following papers:
 
 F. Calefato, F. Lanubile, N. Novielli. "EmoTxt: A Toolkit for Emotion Recognition from Text." In *Proc. 7th Affective Computing and Intelligent Interaction (ACII’17)*, San Antonio, TX, USA, Oct. 23-26, 2017
 ```latex
-LATEX
+@inproceedings{calefato2017acii,
+  title={EmoTxt: A Toolkit for Emotion Recognition from Text},
+  author={Calefato, Fabio and Lanubile, Filippo and Novielli, Nicole},
+  booktitle = {Proceedings of the 6th International Workshop on Social Software Engineering},
+  series = {ACII 2017},
+  year = {2017},
+  isbn = {??},
+  doi = {??},
+  location = {San Antonio, TX, USA},
+  pages = {??--??},
+  numpages = {2}
+}
 ```
 
 ### Support or Contact
