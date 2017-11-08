@@ -1,4 +1,4 @@
-## Collab EMTk - Emotion Mining Toolkit
+## Collab Emotion Mining Toolkit
 
 ### Table of Contents
 
@@ -10,7 +10,7 @@
 
 [How to cite](#how-to-cite)
 
-### About 
+### About EMTk
 The emotion-mining toolkit comprises the following software:
 * [EmoTXT](https://github.com/collab-uniba/Emotion_and_Polarity_SO) - *Emotion detection* from text
 * [Emo4SD](https://github.com/collab-uniba/Emo4SD) - 
