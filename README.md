@@ -6,7 +6,7 @@
 
 [Download](#download)
 
-[Programming languages, 3rd party libs, and OS](#programming-languages,-3rd-party-libs,-and-os)
+[Programming languages, 3rd party libs, and OS](#programming-languages-3rd-party-libs-and-os)
 
 [License](#license)
 
