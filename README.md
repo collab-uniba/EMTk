@@ -6,6 +6,8 @@
 
 [Download](#download)
 
+[Programming languages, 3rd party libs, and OS](#programming-languages,-3rd-party-libs,-and-os)
+
 [License](#license)
 
 [How to cite](#how-to-cite)
@@ -30,6 +32,13 @@ The EMTk and all other software developed by Collab is available on [GitHub](htt
 <a href="">![Emo4SD](./img/button_emosd.png)</a>
 &nbsp;
 <a href="https://github.com/collab-uniba/Senti4SD/archive/master.zip">![Senti4SD](./img/button_sentisd.png)</a>
+
+### Programming languages, 3rd party libs, and OS
+Collab EMTk is developed using a mix of Java, Python, R.Hence, it works on Linux, macOS, and Windows. The following 3rd party libraries are also used:
+* NLTK
+* Stanford CoreNLP
+* Sentistrength
+* ...
 
 ### License
 
