@@ -16,6 +16,11 @@ The emotion-mining toolkit comprises the following software:
 * [Emo4SD](https://github.com/collab-uniba/Emo4SD) - 
 * [Senti4SD](https://github.com/collab-uniba/Senti4SD) - An *emotion-polarity* classifier specifically trained on developers' communication channels
 
+Choose Collab EMTk if you need to:
+* ... (Senti4SD)
+* ... (Emo4SD)
+* ... (EmoTXT)
+
 ### Download
 
 The EMTk and all other software developed by Collab is available on [GitHub](https://github.com/collab-uniba).
