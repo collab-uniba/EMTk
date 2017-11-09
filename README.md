@@ -25,7 +25,7 @@ Choose Collab EMTk if you need to:
 
 ### Download
 
-The EMTk and all other software developed by Collab is available on [GitHub](https://github.com/collab-uniba).
+The EMTk and all other software developed by Collab is available on [GitHub](https://github.com/collab-uniba). If you don't want to clone the repos, click on any of the buttons below to download directly.
 
 <a href="https://github.com/collab-uniba/Emotion_and_Polarity_SO/archive/master.zip">![EmoTXT](./img/button_emotxt.png)</a>
 &nbsp;
@@ -34,7 +34,7 @@ The EMTk and all other software developed by Collab is available on [GitHub](htt
 <a href="https://github.com/collab-uniba/Senti4SD/archive/master.zip">![Senti4SD](./img/button_sentisd.png)</a>
 
 ### Programming languages, 3rd party libs, and OS
-Collab EMTk is developed using a mix of Java, Python, R.Hence, it works on Linux, macOS, and Windows. The following 3rd party libraries are also used:
+Collab EMTk is developed using a mix of Java, Python, R .Hence, it works on Linux, macOS, and Windows. The following 3rd party libraries are also used:
 * NLTK
 * Stanford CoreNLP
 * Sentistrength
