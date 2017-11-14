@@ -14,9 +14,9 @@
 
 ### About EMTk
 The emotion-mining toolkit comprises the following software:
-* [EmoTXT](https://github.com/collab-uniba/Emotion_and_Polarity_SO) - *Emotion detection* from text
-* [Emo4SD](https://github.com/collab-uniba/Emo4SD) - 
-* [Senti4SD](https://github.com/collab-uniba/Senti4SD) - An *emotion-polarity* classifier specifically trained on developers' communication channels
+* [EmoTXT](https://github.com/collab-uniba/Emotion_and_Polarity_SO) - A *general-purpose toolkit* for training custom emotion classifiers from text
+* [Emo4SD](https://github.com/collab-uniba/Emo4SD) - An *emotion classifier* specifically trained on technical corpora from developers' communication channels
+* [Senti4SD](https://github.com/collab-uniba/Senti4SD) - An *emotion-polarity* classifier specifically trained on on technical corpora from developers' communication channels
 
 Choose Collab EMTk if you need to:
 * ...common scenario... (Senti4SD)
