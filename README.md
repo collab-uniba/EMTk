@@ -26,7 +26,7 @@ Choose **Collab EMTk** if:
 
 ### Download
 
-The EMTk and all other software developed by Collab is available on [GitHub](https://github.com/collab-uniba). If you don't want to clone the repos, click on any of the buttons below to download directly.
+**EMTk** and all other software developed by Collab is available on [GitHub](https://github.com/collab-uniba). If you don't want to clone the repos, click on any of the buttons below to download directly.
 
 <a href="https://github.com/collab-uniba/Emotion_and_Polarity_SO/archive/master.zip">![EmoTXT](./img/button_emotxt.png)</a>
 &nbsp;
@@ -36,7 +36,7 @@ The EMTk and all other software developed by Collab is available on [GitHub](htt
 
 ### Programming languages, 3rd party libs, and OS
 
-Collab EMTk is developed using a mix of Java, Python, R. Hence, it works on Linux, macOS, and Windows. The following 3rd party libraries are also used:
+**Collab EMTk** is developed using a mix of Java, Python, R. Hence, it works on Linux, macOS, and Windows. The following 3rd party libraries are also used:
 * [NLTK](http://www.nltk.org)
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html)
 * [SentiStrength](http://sentistrength.wlv.ac.uk)
@@ -44,11 +44,11 @@ Collab EMTk is developed using a mix of Java, Python, R. Hence, it works on Linu
 
 ### License
 
-Collab EMTk is licensed under the [MIT License](https://github.com/collab-uniba/emtk/blob/master/LICENSE).
+**Collab EMTk** is licensed under the [MIT License](https://github.com/collab-uniba/emtk/blob/master/LICENSE).
 
 ### How to cite
 
-If you intend to use the Collab EMTk for your work, please cite the following papers:
+If you intend to use the **Collab EMTk** for your work, please cite the following papers:
 
 * F. Calefato, F. Lanubile, and N. Novielli (2017) <a href="https://arxiv.org/pdf/1709.02984.pdf">"Sentiment Polarity Detection for Software Development."</a> *Empirical Software Engineering Journal*, DOI: <a href="http://dx.doi.org/10.1007/s10664-017-9546-9">10.1007/s10664-017-9546-9</a>. 
 ```latex
