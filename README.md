@@ -36,7 +36,7 @@ The EMTk and all other software developed by Collab is available on [GitHub](htt
 
 ### Programming languages, 3rd party libs, and OS
 
-Collab EMTk is developed using a mix of Java, Python, R .Hence, it works on Linux, macOS, and Windows. The following 3rd party libraries are also used:
+Collab EMTk is developed using a mix of Java, Python, R. Hence, it works on Linux, macOS, and Windows. The following 3rd party libraries are also used:
 * [NLTK](http://www.nltk.org)
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html)
 * [SentiStrength](http://sentistrength.wlv.ac.uk)
