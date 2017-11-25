@@ -13,6 +13,7 @@
 [How to cite](#how-to-cite)
 
 ### About EMTk
+
 The emotion-mining toolkit comprises the following software:
 * [EmoTXT](https://github.com/collab-uniba/Emotion_and_Polarity_SO) - A ***general-purpose toolkit*** for training custom emotion classifiers from text
 * [Emo4SD](https://github.com/collab-uniba/Emo4SD) - An ***emotion classifier*** specifically trained on technical corpora from developers' communication channels
@@ -21,7 +22,7 @@ The emotion-mining toolkit comprises the following software:
 Choose Collab EMTk if you need to:
 * You need to assess the polarity of technical text snippets (e.g., issue comments) from the software development domain but you don't want to train your own classification model => select ([Senti4SD](https://github.com/collab-uniba/Senti4SD))
 * You need to classifiy the emotion expressed in technical text snippets (e.g., commit comments) from the software development domain but you don't want to train your own classification model => select  ([Emo4SD](https://github.com/collab-uniba/Emo4SD))
-* You have a corpus of text from any domain that you intend to used to train your own emotion classifier => select ([EmoTXT](https://github.com/collab-uniba/Emotion_and_Polarity_SO) )
+* You have a corpus of text from any domain that you intend to used to train your own emotion classifier => select ([EmoTXT](https://github.com/collab-uniba/Emotion_and_Polarity_SO))
 
 ### Download
 
@@ -34,10 +35,11 @@ The EMTk and all other software developed by Collab is available on [GitHub](htt
 <a href="https://github.com/collab-uniba/Senti4SD/archive/master.zip">![Senti4SD](./img/button_sentisd.png)</a>
 
 ### Programming languages, 3rd party libs, and OS
+
 Collab EMTk is developed using a mix of Java, Python, R .Hence, it works on Linux, macOS, and Windows. The following 3rd party libraries are also used:
-* NLTK
-* Stanford CoreNLP
-* Sentistrength
+* [NLTK](http://www.nltk.org)
+* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html)
+* [SentiStrength](http://sentistrength.wlv.ac.uk)
 * ...
 
 ### License
