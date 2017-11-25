@@ -21,8 +21,8 @@ The emotion-mining toolkit comprises the following software:
 
 Choose Collab EMTk if you need to:
 * You need to assess the polarity of technical text snippets (e.g., issue comments) from the software development domain but you don't want to train your own classification model => select ([Senti4SD](https://github.com/collab-uniba/Senti4SD))
-* You need to classifiy the emotion expressed in technical text snippets (e.g., commit comments) from the software development domain but you don't want to train your own classification model => select  ([Emo4SD](https://github.com/collab-uniba/Emo4SD))
-* You have a corpus of text from any domain that you intend to used to train your own emotion classifier => select ([EmoTXT](https://github.com/collab-uniba/Emotion_and_Polarity_SO))
+* You need to classifiy the emotion expressed in technical text snippets (e.g., commit comments) from the software development domain but you don't want to train your own classification model => select ([Emo4SD](https://github.com/collab-uniba/Emo4SD))
+* You have a corpus of text from any domain that you intend to use for training your own emotion classifier => select ([EmoTXT](https://github.com/collab-uniba/Emotion_and_Polarity_SO))
 
 ### Download
 
