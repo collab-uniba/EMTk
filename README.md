@@ -40,7 +40,6 @@ Choose **Collab EMTk** if:
 * [NLTK](http://www.nltk.org)
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html)
 * [SentiStrength](http://sentistrength.wlv.ac.uk)
-* ...
 
 ### License
 
