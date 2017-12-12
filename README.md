@@ -80,4 +80,4 @@ If you intend to use the **Collab EMTk** for your work, please cite the followin
 
 ### Support or Contact
 
-Having trouble with our toolkit? [Contact us](http://collab.di.unibait/members) and we’ll help you sort it out.
+Having trouble with our toolkit? [Contact us](http://collab.di.uniba.it/members) and we’ll help you sort it out.
