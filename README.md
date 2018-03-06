@@ -15,22 +15,19 @@
 ### About EMTk
 
 The emotion-mining toolkit comprises the following software:
-* [EmoTXT](https://github.com/collab-uniba/Emotion_and_Polarity_SO) - A ***general-purpose toolkit*** for training custom emotion classifiers from text
-* [Emo4SD](https://github.com/collab-uniba/Emo4SD) - An ***emotion classifier*** specifically trained on technical corpora from developers' communication channels
+* [EmoTXT](https://github.com/collab-uniba/Emotion_and_Polarity_SO) - A ***general-purpose toolkit*** for training custom emotion classifiers from text. Together with the toolkit, we distribute an ***emotion classifier*** specifically tuned for emotion mining from  developers' communication channels, tranied using our gold standard of about [5k posts from Stack Overflow](https://github.com/collab-uniba/EmotionDatasetMSR18) 
 * [Senti4SD](https://github.com/collab-uniba/Senti4SD) - An ***emotion-polarity*** classifier specifically trained on technical corpora from developers' communication channels
 
 Choose **Collab EMTk** if:
 * You need to assess the polarity of technical text snippets (e.g., issue comments) from the software development domain but you don't want to train your own classification model => select [Senti4SD](https://github.com/collab-uniba/Senti4SD)
-* You need to classifiy the emotion expressed in technical text snippets (e.g., commit comments) from the software development domain but you don't want to train your own classification model => select [Emo4SD](https://github.com/collab-uniba/Emo4SD)
-* You have a corpus of text from any domain that you intend to use for training your own emotion classifier => select [EmoTXT](https://github.com/collab-uniba/Emotion_and_Polarity_SO)
+* You need to classify the emotion expressed in technical text snippets (e.g., commit comments) from the software development domain but you don't want to train your own classification model => use the classification function of [EmoTXT](https://github.com/collab-uniba/Emotion_and_Polarity_SO).
+* You have a corpus of text from any domain that you intend to use for training your own emotion classifier => use the training function of [EmoTXT](https://github.com/collab-uniba/Emotion_and_Polarity_SO)
 
 ### Download
 
 **EMTk** and all other software developed by Collab is available on [GitHub](https://github.com/collab-uniba). If you don't want to clone the repos, click on any of the buttons below to download directly.
 
 <a href="https://github.com/collab-uniba/Emotion_and_Polarity_SO/archive/master.zip">![EmoTXT](./img/button_emotxt.png)</a>
-&nbsp;
-<a href="">![Emo4SD](./img/button_emosd.png)</a>
 &nbsp;
 <a href="https://github.com/collab-uniba/Senti4SD/archive/master.zip">![Senti4SD](./img/button_sentisd.png)</a>
 
@@ -67,14 +64,30 @@ If you intend to use the **Collab EMTk** for your work, please cite the followin
 @inproceedings{calefato2017acii,
  title={EmoTxt: A Toolkit for Emotion Recognition from Text},
  author={Calefato, Fabio and Lanubile, Filippo and Novielli, Nicole},
- booktitle = {Proc. 7th Affective Computing and Intelligent Interaction},
+ booktitle = {Proceedings of the Seventh International Conference on Affective Computing and Intelligent Interaction Workshops and Demos},
  series = {ACII 2017},
  year = {2017},
+ isbn = {978-1-5386-0563-9},
+ doi = {10.1109/ACIIW.2017.8272591},
+ url ={http://doi.ieeecomputersociety.org/10.1109/ACIIW.2017.8272591},
+ location = {San Antonio, TX, USA},
+ pages = {79--80},
+ numpages = {2}
+}
+```
+* N. Novielli, F. Calefato, F. Lanubile (2018) <a href="">"A Gold Standard for Emotions Annotation in Stack Overflow."</a> To appear in *Proc. of the 15th International Conference on Mining Software Repositories* (MSR 2018), Gothenburg, Sweden, May 28-29, 2018.
+```latex
+@inproceedings{Novielli2018msr,
+ title={A Gold Standard for Emotions Annotation in Stack Overflow},
+ author={Novielli, Nicole and Calefato, Fabio and Lanubile, Filippo},
+ booktitle = {Proc. of the 15th International Conference on Mining Software Repositories},
+ series = {MSR 2018},
+ year = {2018},
  isbn = {??},
  doi = {??},
- location = {San Antonio, TX, USA},
+ location = {Gothenburg, Sweden},
  pages = {??--??},
- numpages = {2}
+ numpages = {4}
 }
 ```
 
