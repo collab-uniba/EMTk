@@ -83,8 +83,8 @@ If you intend to use the **Collab EMTk** for your work, please cite the followin
  booktitle = {Proc. of the 15th International Conference on Mining Software Repositories},
  series = {MSR 2018},
  year = {2018},
- isbn = {??},
- doi = {??},
+ isbn = {978-1-4503-5716-6/18/05},
+ doi = {10.1145/3196398.3196453},
  location = {Gothenburg, Sweden},
  pages = {??--??},
  numpages = {4}
