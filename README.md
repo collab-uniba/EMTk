@@ -75,7 +75,7 @@ If you intend to use the **Collab EMTk** for your work, please cite the followin
  numpages = {2}
 }
 ```
-* N. Novielli, F. Calefato, F. Lanubile (2018) <a href="">"A Gold Standard for Emotions Annotation in Stack Overflow."</a> To appear in *Proc. of the 15th International Conference on Mining Software Repositories* (MSR 2018), Gothenburg, Sweden, May 28-29, 2018.
+* N. Novielli, F. Calefato, F. Lanubile (2018) <a href="">"A Gold Standard for Emotions Annotation in Stack Overflow."</a>  In *Proc. of the 15th International Conference on Mining Software Repositories* (MSR 2018), Gothenburg, Sweden, May 28-29, 2018.
 ```latex
 @inproceedings{Novielli2018msr,
  title={A Gold Standard for Emotions Annotation in Stack Overflow},
@@ -86,7 +86,7 @@ If you intend to use the **Collab EMTk** for your work, please cite the followin
  isbn = {978-1-4503-5716-6/18/05},
  doi = {10.1145/3196398.3196453},
  location = {Gothenburg, Sweden},
- pages = {??--??},
+ pages = {14--17},
  numpages = {4}
 }
 ```
