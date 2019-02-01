@@ -6,11 +6,13 @@
 
 [Download](#download)
 
+[How to run](#how-to-run)
+
 [Programming languages, 3rd party libs, and OS](#programming-languages-3rd-party-libs-and-os)
 
-[License](#license)
-
 [How to cite](#how-to-cite)
+
+[License](#license)
 
 ### About EMTk
 
@@ -35,10 +37,6 @@ $ docker run --rm -v <sharedFolderPath>:/shared -ti collabuniba/emtk
 ```
 
 where `<sharedFolderPath>` is the path to the folder on the host that will be shared with the container to allow file exchange at runtime. 
-
-
-
-
 
 #### Direct download
 
