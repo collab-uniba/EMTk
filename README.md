@@ -38,6 +38,18 @@ where `<sharedFolderPath>` is the path to the folder on the host that will be sh
 
 
 
+
+
+#### Direct download
+
+**EMTk** and all other software developed by Collab is available on [GitHub](https://github.com/collab-uniba). If you don't want to clone the repos, click on any of the buttons below to download directly.
+
+<a href="https://github.com/collab-uniba/Emotion_and_Polarity_SO/archive/master.zip">![EmoTXT](./img/button_emotxt.png)</a>
+&nbsp;
+<a href="https://github.com/collab-uniba/Senti4SD/archive/master.zip">![Senti4SD](./img/button_sentisd.png)</a>
+
+### How to run
+
 ##### Polarity module
 
 The second line logs you in the container’s shell environment (`>`). From there, to execute the polarity module, run:
@@ -50,23 +62,14 @@ where:
 
 - `-F {A, S, L, K}`, feature to evaluate `A` for All, S for Semantic, `L` for Lexicon, `K` for Keyword.
 - `-i <input.csv>`: the input data to classify. 
-
 - `-W <wordSpace.bin>`: the wordspace to use.
-
 - `-oc <output.csv>`: the resulting predictions. 
 - `-vd <N>`: the vector size.
-
 - `-L`: [optional] if present, the input corpus comes with a gold label in the label column.
-
 - `-ul <filename>`: [optional] the unigram's list.
-
 - `-bl <filename>`: [optional] the bigram's list.
 
-
-
 Users can test-drive the polarity module by using the file `/polarity/Sample.csv`, containing only a handful of documents.
-
-
 
 ##### Emotion module
 
@@ -92,8 +95,6 @@ where:
 
 - `-e {joy, anger, sadness, love, surprise, fear}`: the emotion to be detected.
 
-
-
 As a result, the script will generate an output folder at the location `/polarity/training_<file.csv>_<emotion>/`, containing:
 
 - `n-grams/`: a subfolder containing the extracted n-grams.
@@ -104,8 +105,6 @@ As a result, the script will generate an output folder at the location `/polarit
   - eight models trained with `liblinear model_<emotion>_<ID>.Rda`, where ID refers to the liblinear model (with values in {0, ..., 7}).
   - `performance_<emotion>_<IDMODEL>.txt`, a file containing the results of the parameter tuning for the model (cost), the confusion matrix, and the Precision, Recall, and F-measure for the best cost for the specific `<emotion>`.
   - `predictions_<emotion>_<IDMODEL>.csv`, containing the test instances with the predicted labels for the specific `<emotion>`.
-
-
 
 Finally, to execute the classification task, run:
 
@@ -123,8 +122,6 @@ where:
 - `-o /path/to/.../ngrams`: [optional] with custom models, also the path to the folder containing the dictionaries extracted during the training step; the folder must include n-grams (i.e., UnigramsList.txt and BigramsList.txt).
 - `-l`: [optional] if present, the input corpus comes with a gold label in the column label.
 
-
-
 As a result, the script will create an output folder at the location `/emotions/classification_<file.csv>_<emotion>`, containing:
 
 - `predictions_<emotion>.csv`: a csv file, containing a binary prediction (yes/no) for each line of the input corpus:
@@ -139,8 +136,6 @@ As a result, the script will create an output folder at the location `/emotions/
 
 - `performance_<emotion>.txt`: a file containing several performance metrics (Precision, Recall, F1, confusion matrix), created only if the input corpus `<file.csv>` contains the column label.
 
-
-
 Users can test-drive the emotion classification module by using the file `/emotions/sample.csv`, which contains only a handful of documents. Other more complex sample datasets are available at `/emotions/java/DatasetSO/StackOverflowCSV`.
 
 ##### The `/shared/` folder
@@ -151,26 +146,12 @@ To use the EMTk modules with **custom datasets**, users must access the `/shared
 
 For instance, on a Linux machine, `-v ~/shared:/shared` creates a folder named `shared` in the host system's home (if it doesn't already exist) and a folder named `shared` in the container's root. Whatever is put into the shared folder can be found on both the systems, allowing input and output file exchange. This is accomplished leveraging [Docker's bind mounts](https://docs.docker.com/storage/bind-mounts/).
 
-
-
-#### Direct download
-
-**EMTk** and all other software developed by Collab is available on [GitHub](https://github.com/collab-uniba). If you don't want to clone the repos, click on any of the buttons below to download directly.
-
-<a href="https://github.com/collab-uniba/Emotion_and_Polarity_SO/archive/master.zip">![EmoTXT](./img/button_emotxt.png)</a>
-&nbsp;
-<a href="https://github.com/collab-uniba/Senti4SD/archive/master.zip">![Senti4SD](./img/button_sentisd.png)</a>
-
 ### Programming languages, 3rd party libs, and OS
 
 **Collab EMTk** is developed using a mix of Java, Python, R. Hence, it works on Linux, macOS, and Windows. The following 3rd party libraries are also used:
 * [NLTK](http://www.nltk.org)
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html)
 * [SentiStrength](http://sentistrength.wlv.ac.uk)
-
-### License
-
-**Collab EMTk** is licensed under the [MIT License](https://github.com/collab-uniba/emtk/blob/master/LICENSE).
 
 ### How to cite
 
@@ -220,6 +201,10 @@ If you intend to use the **Collab EMTk** for your work, please cite the followin
  numpages = {4}
 }
 ```
+
+### License
+
+**Collab EMTk** is licensed under the [MIT License](https://github.com/collab-uniba/emtk/blob/master/LICENSE).
 
 ### Support or Contact
 
