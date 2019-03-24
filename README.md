@@ -142,7 +142,7 @@ To use the EMTk modules with **custom datasets**, users must access the `/shared
 
 `docker run -v <pathInTheHostMachine>:<pathInTheContainer> [...]`.
 
-For instance, on a Linux machine, `-v ~/shared:/shared` creates a folder named `shared` in the host system's home (if it doesn't already exist) and a folder named `shared` in the container's root. Whatever is put into the shared folder can be found on both the systems, allowing input and output file exchange. This is accomplished leveraging [Docker's bind mounts](https://docs.docker.com/storage/bind-mounts/).
+For instance, on a Linux machine, `-v ~/shared:/shared` creates a folder named `shared` in the host system's home (if it doesn't already exist) and a folder named `shared` in the container's root. Whatever is put into the shared folder can be found on both the systems, allowing input and output file exchange. This is accomplished by leveraging [Docker's bind mounts](https://docs.docker.com/storage/bind-mounts/).
 
 ### Programming languages, 3rd party libs, and OS
 
