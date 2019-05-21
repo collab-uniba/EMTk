@@ -99,6 +99,8 @@ where:
 
 - `-e {joy, anger, sadness, love, surprise, fear}`: the emotion to be detected.
 
+- `-p`: enables the extraction of features regarding politeness, mood and modality.
+
 As a result, the script will generate an output folder in the present working directory named `training_<file.csv>_<emotion>/`, containing:
 
 - `n-grams/`: a subfolder containing the extracted n-grams.
