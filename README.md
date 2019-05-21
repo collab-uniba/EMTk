@@ -141,7 +141,7 @@ As a result, the script will create an output folder in the present working dire
 
 - `performance_<emotion>.txt`: a file containing several performance metrics (Precision, Recall, F1, confusion matrix), created only if the input corpus `<file.csv>` contains the column label.
 
-Users can test-drive the emotion classification module by using the file `/LOVE_SMALL.csv`, which contains only a few documents. Other more complex sample datasets are available at `/emotions/java/DatasetSO/StackOverflowCSV`.
+Users can test-drive the emotion classification module by using the file `/emotions_sample.csv`, which contains only a handful of documents. Other more complex sample datasets are available at `/emotions/java/DatasetSO/StackOverflowCSV`.
 
 ##### The `/shared/` folder
 
