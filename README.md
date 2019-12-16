@@ -17,8 +17,8 @@
 ### About EMTk
 
 The emotion-mining toolkit comprises two main modules:
-* [Emotion mining module](https://github.com/collab-uniba/Emotion_and_Polarity_SO) - A ***general-purpose toolkit*** for training custom emotion classifiers from text. Together with the toolkit, we distribute an ***emotion classifier*** specifically tuned for emotion mining from  developers' communication channels, tranied using our gold standard of about [5k posts from Stack Overflow](https://github.com/collab-uniba/EmotionDatasetMSR18) 
-* [Polarity mining module](https://github.com/collab-uniba/Senti4SD) - An ***emotion-polarity*** classifier specifically trained on technical corpora from developers' communication channels
+* [Emotion mining module](https://github.com/collab-uniba/Emotion_and_Polarity_SO) (formerly EmoTXT) - A ***general-purpose toolkit*** for training custom emotion classifiers from text. Together with the toolkit, we distribute an ***emotion classifier*** specifically tuned for emotion mining from  developers' communication channels, tranied using our gold standard of about [5k posts from Stack Overflow](https://github.com/collab-uniba/EmotionDatasetMSR18) 
+* [Polarity mining module](https://github.com/collab-uniba/Senti4SD) (formerly Senti4SD) - An ***emotion-polarity*** classifier specifically trained on technical corpora from developers' communication channels
 
 Choose **Collab EMTk** if:
 * You need to assess the polarity of technical text snippets (e.g., issue comments) from the software development domain but you don't want to train your own classification model => select the [sentiment polarity module](https://github.com/collab-uniba/Senti4SD)
