@@ -42,9 +42,9 @@ where `<sharedFolderPath>` is the path to the folder on the host that will be sh
 
 **EMTk** and all other software developed by Collab is available on [GitHub](https://github.com/collab-uniba). If you don't want to run the software from the Docker container, feel free to download directly the modules from their repos by clicking on any of the buttons below.
 
-<a href="https://github.com/collab-uniba/Emotion_and_Polarity_SO/archive/master.zip">![EmoTXT](./img/button_emotion-module.png)</a>
+<a href="https://github.com/collab-uniba/Emotion_and_Polarity_SO">![EmoTXT](./img/button_emotion-module.png)</a>
 &nbsp;
-<a href="https://github.com/collab-uniba/Senti4SD/archive/master.zip">![Senti4SD](./img/button_polarity-module.png)</a>
+<a href="https://github.com/collab-uniba/pySenti4SD">![Senti4SD](./img/button_polarity-module.png)</a>
 
 ### How to run
 
