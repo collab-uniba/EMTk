@@ -16,8 +16,8 @@
 
 ### About EMTk
 
-The emotion-mining toolkit comprises two main modules:
-* [Emotion mining module](https://github.com/collab-uniba/Emotion_and_Polarity_SO) (formerly EmoTXT) - A ***general-purpose toolkit*** for training custom emotion classifiers from text. Together with the toolkit, we distribute an ***emotion classifier*** specifically tuned for emotion mining from  developers' communication channels, tranied using our gold standard of about [5k posts from Stack Overflow](https://github.com/collab-uniba/EmotionDatasetMSR18) 
+EMTk is a toolkit for training custom sentiment and emotion classifiers from text. The emotion-mining toolkit comprises two main modules:
+* [Emotion mining module](https://github.com/collab-uniba/Emotion_and_Polarity_SO) (formerly EmoTXT) - A ***emotion-mining toolkit*** for training custom emotion classifiers from text. Together with the toolkit, we distribute an ***emotion classifier*** specifically tuned for emotion mining from  developers' communication channels, tranied using our gold standard of about [5k posts from Stack Overflow](https://github.com/collab-uniba/EmotionDatasetMSR18) 
 * [Polarity mining module](https://github.com/collab-uniba/Senti4SD) (formerly Senti4SD) - An ***emotion-polarity*** classifier specifically trained on technical corpora from developers' communication channels
 
 Choose **Collab EMTk** if:
